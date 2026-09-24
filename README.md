@@ -268,7 +268,7 @@ Didn't find what you were looking for? Try one of our other repos!
 - [Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
 - [UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
 - [ZapsPlat](https://www.zapsplat.com/) -  Offers free high-quality sound effects categorized for easy browsing.
-- [BudgetPixel SFX](https://budgetpixel.com/sfx) - Website by BudgetPixel providing AI generated high quality, Royalty-free SFX for videos, games and podcasts. No attribution, no account registration needed.
+- [BudgetPixel SFX](https://budgetpixel.com/sfx) - Website by BudgetPixel providing AI generated high quality, Royalty-free SFX for videos, games and podcasts. Free for commercial use under CC BY 4.0 (credit required), no account registration needed.
 
 
 ## 🕹 Game Design  
