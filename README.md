@@ -262,6 +262,7 @@ Didn't find what you were looking for? Try one of our other repos!
 
 ### SFX  
 - [Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
+- [Circuit UI SFX Free Sample](https://secondwindmc.github.io/free-retro-game-sound-effects.html) - Twelve free CC0 retro game sound effects in WAV format, with browser previews and a companion procedural sound generator.  
 - [FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
 - [Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
 - [Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
